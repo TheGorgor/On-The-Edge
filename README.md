@@ -6,3 +6,5 @@ yaşadığı çatışmalarda kritik kararlar alır. Bill belanın eşiğinde... 
 Hikâye, tek bir seçimle değişebilir. Bu senin hikâyen; ya sınırı aşarsın, ya da kontrolü ele alırsın.
 
 Oyun Dili: Türkçe
+
+Daha yapım aşamasında
