@@ -7,4 +7,4 @@ Hikâye, tek bir seçimle değişebilir. Bu senin hikâyen; ya sınırı aşars�
 
 Oyun Dili: Türkçe
 
-Daha yapım aşamasında
+Daha geliştirme aşamasında
